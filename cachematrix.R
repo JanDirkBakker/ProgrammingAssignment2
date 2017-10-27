@@ -1,3 +1,5 @@
+##Dirk 2017 R lesson
+
 ## Put comments here that give an overall description of what your
 ## functions do
 
